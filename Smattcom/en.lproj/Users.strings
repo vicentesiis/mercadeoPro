@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Seleccione el ícono de búsqueda que se encuentra arriba, y escriba el nombre del usuario que desea contactar.  Ingrese al menos 4 caracteres."; ObjectID = "3ps-DN-7OZ"; */
+"3ps-DN-7OZ.text" = "Select the search icon above and enter the name of the user you are contacting.  Enter at least 4 characters.";
+
+/* Class = "UILabel"; text = "Usuario"; ObjectID = "GYS-F4-gv7"; */
+"GYS-F4-gv7.text" = "User";
+
+/* Class = "UILabel"; text = "usuario@gmail.com"; ObjectID = "HAz-Ql-jVk"; */
+"HAz-Ql-jVk.text" = "user@gmail.com";

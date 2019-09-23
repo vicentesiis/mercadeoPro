@@ -1,0 +1,14 @@
+
+/* Class = "UIButton"; normalTitle = "INICIAR SESIÓN"; ObjectID = "FVu-hB-0l6"; */
+"FVu-hB-0l6.normalTitle" = "INITIATE SESSION";
+
+/* Class = "UIButton"; normalTitle = "¿No tienes cuenta? Regístrate!"; ObjectID = "RPL-mf-dgV"; */
+"RPL-mf-dgV.normalTitle" = "Not registered yet? Sign Up!";
+
+/* Class = "UITextField"; placeholder = "Correo o Alias"; ObjectID = "RQs-33-Gt5"; */
+"RQs-33-Gt5.placeholder" = "E-mail";
+
+/* Class = "UITextField"; placeholder = "Contraseña"; ObjectID = "VOy-qY-D5k"; */
+"VOy-qY-D5k.placeholder" = "Password";
+
+"HEu-4c-DhI.normalTitle" = "Forgot your password?";

@@ -1,0 +1,24 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "2Q8-RA-AOV"; */
+"2Q8-RA-AOV.title" = "Item";
+
+/* Class = "UILabel"; text = "usuario@gmail.com"; ObjectID = "6ok-96-Ex3"; */
+"6ok-96-Ex3.text" = "user@gmail.com";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "RQr-At-QeS"; */
+"RQr-At-QeS.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W34-xo-qKr"; */
+"W34-xo-qKr.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "cCY-Ue-0re"; */
+"cCY-Ue-0re.title" = "Item";
+
+/* Class = "UILabel"; text = "Usuario"; ObjectID = "ibR-vI-wy9"; */
+"ibR-vI-wy9.text" = "User";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "vhv-EW-RPb"; */
+"vhv-EW-RPb.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "zP8-FF-LKa"; */
+"zP8-FF-LKa.title" = "Item";

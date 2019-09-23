@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Fecha de publicacion:"; ObjectID = "ARS-gp-eYa"; */
+"ARS-gp-eYa.text" = "Publication date:";
+
+/* Class = "UILabel"; text = "Mercado: "; ObjectID = "LBg-TF-y86"; */
+"LBg-TF-y86.text" = "Market: ";
+
+/* Class = "UILabel"; text = "blavla"; ObjectID = "gKr-VL-GrM"; */
+"gKr-VL-GrM.text" = "blavla";
+
+/* Class = "UILabel"; text = "blavla"; ObjectID = "zNt-SH-IoO"; */
+"zNt-SH-IoO.text" = "blavla";

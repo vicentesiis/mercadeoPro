@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "1 MES"; ObjectID = "FJc-XI-YA0"; */
+"FJc-XI-YA0.normalTitle" = "1 MONTH";
+
+/* Class = "UIButton"; normalTitle = "1 AÑO"; ObjectID = "LHf-AJ-U4e"; */
+"LHf-AJ-U4e.normalTitle" = "1 YEAR";
+
+/* Class = "UILabel"; text = "Min"; ObjectID = "PQL-1v-OAf"; */
+"PQL-1v-OAf.text" = "Min";
+
+/* Class = "UILabel"; text = "Max"; ObjectID = "Sxo-9a-uZM"; */
+"Sxo-9a-uZM.text" = "Max";
+
+/* Class = "UILabel"; text = "Tus Mercados Favoritos"; ObjectID = "WdS-PQ-SrI"; */
+"WdS-PQ-SrI.text" = "Global prices or select market";
+
+/* Class = "UIButton"; normalTitle = "7 DIAS"; ObjectID = "dop-1x-si7"; */
+"dop-1x-si7.normalTitle" = "7 DAYS";
+
+/* Class = "UILabel"; text = "Ultimo cierre"; ObjectID = "ovK-g1-g39"; */
+"wKu-gX-IsF.text" = "Last closing";
+
+/* Class = "UIButton"; normalTitle = "HOY"; ObjectID = "ykS-1Y-G2S"; */
+"ykS-1Y-G2S.normalTitle" = "TODAY";
